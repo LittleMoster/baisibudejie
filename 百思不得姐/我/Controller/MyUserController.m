@@ -25,6 +25,10 @@ static NSString *const CellID=@"meCell";
        UIBarButtonItem *setBar=[UIBarButtonItem itemWithImageName:@"mine-setting-icon" WithHeight:@"mine-setting-icon-click" target:self action:@selector(settingClick)];
     self.navigationItem.rightBarButtonItems=@[setBar,moonBar];
     
+    NSLog(@"是不是可以显示出来呢");
+      NSLog(@"是不是可以显示出来呢");
+      NSLog(@"是不是可以显示出来呢");
+      NSLog(@"是不是可以显示出来呢");
     [self setuptableview];
   
 
