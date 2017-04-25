@@ -25,7 +25,12 @@
     [self dismissViewControllerAnimated:YES completion:nil];
 }
 - (IBAction)ZhuCeShowAction:(UIButton *)sender {
-    
+    NSLog(@"fdjkdshklshd");
+     NSLog(@"fdjkdshklshd");
+     NSLog(@"fdjkdshklshd");
+     NSLog(@"fdjkdshklshd");
+      NSLog(@"fdjkdshklshd");
+     NSLog(@"fdjkdshklshd");
     //退出键盘
     [self.view endEditing:YES];
     
