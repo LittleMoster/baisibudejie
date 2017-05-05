@@ -11,4 +11,5 @@
 @interface BaseNavViewController : UINavigationController
 
 
+@property(nonatomic,strong)NSString *str;
 @end
