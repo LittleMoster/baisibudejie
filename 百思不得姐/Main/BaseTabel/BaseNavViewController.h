@@ -10,7 +10,5 @@
 
 @interface BaseNavViewController : UINavigationController
 
-@property(nonatomic,strong)NSString *name;
-@property(nonatomic,strong)NSString *dwe;
-@property(nonatomic,strong)NSString *adad;
+
 @end
