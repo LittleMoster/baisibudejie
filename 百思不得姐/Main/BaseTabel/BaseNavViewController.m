@@ -62,6 +62,12 @@
         viewController.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithCustomView:btn];
     }
     [super pushViewController:viewController animated:animated];
+    NSLog(@"fdjkshfjk");
+        NSLog(@"fdjkshfjk");
+        NSLog(@"fdjkshfjk");
+        NSLog(@"fdjkshfjk");
+        NSLog(@"fdjkshfjk");
+    NSLog(@"fdjkshfjk");
 }
 -(void)fanhui
 {
